@@ -1,0 +1,8 @@
+<categories version="1">
+    <category categoryIDStr="0001" categoryTitleStr="Atrações turísticas"
+    categoryLocalBool="true" categoryWebserviceBool="false"
+    categoryWebserviceNameStr=""
+    categoryIconStr="icon_cat"
+    categorySelectedPoiIconStr="icon_mapa"
+    categoryNoSelectedPoiIconStr="icon_mapa_no_sel"/>
+</categories>

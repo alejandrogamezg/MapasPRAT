@@ -1,0 +1,75 @@
+<pois>
+	<icons>
+    </icons>
+	<poi poiIDStr="0001"
+        poiLatitudeDouble="40.41687"
+        poiLongitudeDouble="-3.703412"
+        poiTitleStr="Puerta del Sol"
+        poiURLStr="http://en.wikipedia.org/wiki/Puerta_del_Sol"
+        poiSubtitleStr="Puerta del Sol 1, Madrid">
+		<categories>
+			<category poiCategoryIDStr="0001" />
+        </categories>
+	</poi>
+    <poi poiIDStr="0002"
+        poiLatitudeDouble="48.858391"
+        poiLongitudeDouble="2.293739"
+        poiTitleStr="Torre Eiffel"
+        poiURLStr="http://en.wikipedia.org/wiki/Torre_Eiffel"
+        poiSubtitleStr="Champ de Mars, 5, Paris, Francia">
+		<categories>
+			<category poiCategoryIDStr="0001" />
+        </categories>
+	</poi>
+    <poi poiIDStr="0003"
+        poiLatitudeDouble="40.771832"
+        poiLongitudeDouble="-73.972321"
+        poiTitleStr="Central Park"
+        poiURLStr="http://en.wikipedia.org/wiki/Puerta_del_Sol"
+        poiSubtitleStr="1 Central Park West, Nueva York, USA">
+		<categories>
+			<category poiCategoryIDStr="0001" />
+        </categories>
+	</poi>
+    <poi poiIDStr="0004"
+        poiLatitudeDouble="51.507727"
+        poiLongitudeDouble="-0.087891"
+        poiTitleStr="Puente de Londres"
+        poiURLStr="http://en.wikipedia.org/wiki/London_Bridge"
+        poiSubtitleStr="London Borough, SE1, Reino Unido">
+		<categories>
+			<category poiCategoryIDStr="0001" />
+        </categories>
+	</poi>
+    <poi poiIDStr="0005"
+        poiLatitudeDouble="55.751994"
+        poiLongitudeDouble="37.63238"
+        poiTitleStr="Plaza Roja"
+        poiURLStr="http://en.wikipedia.org/wiki/Red_Square"
+        poiSubtitleStr="Varvarka, 14, Moscú, Rusia">
+		<categories>
+			<category poiCategoryIDStr="0001" />
+        </categories>
+	</poi>
+    <poi poiIDStr="0006"
+        poiLatitudeDouble="-25.695302"
+        poiLongitudeDouble="-54.436784"
+        poiTitleStr="Cataratas de Iguazu"
+        poiURLStr="http://en.wikipedia.org/wiki/Iguazu_Falls"
+        poiSubtitleStr="Argentina">
+		<categories>
+			<category poiCategoryIDStr="0001" />
+        </categories>
+	</poi>
+    <poi poiIDStr="0007"
+        poiLatitudeDouble="--3.065096"
+        poiLongitudeDouble="37.355061"
+        poiTitleStr="Monte Kilimanjaro"
+        poiURLStr="http://en.wikipedia.org/wiki/Iguazu_Falls"
+        poiSubtitleStr="Kilimanjaro National Park, Tanzania">
+		<categories>
+			<category poiCategoryIDStr="0001" />
+        </categories>
+	</poi>
+
+</pois>
