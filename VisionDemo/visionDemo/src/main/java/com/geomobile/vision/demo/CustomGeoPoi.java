@@ -30,7 +30,7 @@ public class CustomGeoPoi extends VisionGeoPoi {
 	private String poiRating;
 
 	@Override
-	public LinearLayout getPanelTextureLayout(Context ctx) {
+	/*public LinearLayout getPanelTextureLayout(Context ctx) {
 		// TODO Auto-generated method stub
 		float density = VisionCore.core.configuration.getScreenDensity();
 		
@@ -43,7 +43,7 @@ public class CustomGeoPoi extends VisionGeoPoi {
 
 		TextView vista = new TextView(ctx);
 		vista.setLayoutParams(new LinearLayout.LayoutParams(180, LayoutParams.WRAP_CONTENT));
-		vista.setTextColor(0xffffffff);
+		vista.setTextColor(0xFF3300);
 		vista.setTextSize((int) (25 / density));
 		vista.setText(this.title);
 		vista.setGravity(Gravity.CENTER_HORIZONTAL);
@@ -102,8 +102,9 @@ public class CustomGeoPoi extends VisionGeoPoi {
 		}// if
 		return lay;
 	}
-	
-	@Override
+
+	@Override*/
+	/*
 	public LinearLayout getArrowTextureLayout(Context ctx) {
 		// TODO Auto-generated method stub
 		float density = VisionCore.core.configuration.getScreenDensity();
@@ -148,8 +149,8 @@ public class CustomGeoPoi extends VisionGeoPoi {
 		return lay;
 	}
 
-	@Override
-	public View drawInfoPanel(Context ctx) {
+	@Override*/
+	/*public View drawInfoPanel(Context ctx) {
 		RelativeLayout ll = new RelativeLayout(ctx);
 		LinearLayout.LayoutParams p = new LinearLayout.LayoutParams(LayoutParams.FILL_PARENT, LayoutParams.WRAP_CONTENT);
 		p.setMargins(VisionUtils.scalePixels(10), VisionUtils.scalePixels(20), VisionUtils.scalePixels(10), 0);
@@ -207,12 +208,13 @@ public class CustomGeoPoi extends VisionGeoPoi {
 
 		return ll;
 	}
-
-	@Override
+	//MENSAJE POP DEL MAPA
+	@Override*/
 	public View drawMapPopup(Context ctx) {
 		LinearLayout pop =(LinearLayout) View.inflate(ctx,R.layout.custom_info_window, null);
 		TextView title=(TextView)pop.findViewById(R.id.title);
 		title.setText(this.getTitle());
+		//title.setTextColor(0xFF00CC);
 		TextView subtitle=(TextView)pop.findViewById(R.id.subtitle);
 		subtitle.setText(this.getSubtitle());
 		ImageView cat=(ImageView)pop.findViewById(R.id.cat);
@@ -315,7 +317,7 @@ public class CustomGeoPoi extends VisionGeoPoi {
 		miniImage.setImageResource(R.drawable.logo_g);
 		
 		title.setText(Html.fromHtml(this.title));
-		title.setTextColor(0xff000000);
+		title.setTextColor(0xFF3300);
 
 		text.setText(Html.fromHtml(this.subtitle));
 		text.setTextColor(0xff000000);

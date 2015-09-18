@@ -61,8 +61,6 @@ public class MyARManager extends VisionARManager {
 		a3.icon = null;
 		topRightAction = a3;
 
-		
-		messageColor = Color.argb(187,0, 100, 0);
 	}
 
 	@Override

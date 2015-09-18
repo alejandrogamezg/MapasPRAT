@@ -52,6 +52,9 @@
         <activity
             android:name="com.geomobile.vision.demo.CustomGeoPoiClickActivity">
         </activity>
+        <activity
+            android:name="com.geomobile.vision.demo.Activity_Maps">
+        </activity>
 
         <!-- Vision SDK -->
         <meta-data

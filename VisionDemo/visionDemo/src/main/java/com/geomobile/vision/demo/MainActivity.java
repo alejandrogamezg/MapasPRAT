@@ -1,6 +1,7 @@
 package com.geomobile.vision.demo;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.View;
@@ -27,6 +28,7 @@ public class MainActivity extends Activity implements OnClickListener {
 	private Boolean teleport = true;
 	private Language lan=Language.EN;
 	private Button bt_launch;
+	private Button btn_mapas;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -34,6 +36,9 @@ public class MainActivity extends Activity implements OnClickListener {
 		progress=(ProgressBar)this.findViewById(R.id.progressBar);
 		bt_launch = (Button) this.findViewById(R.id.launch);
 		bt_launch.setOnClickListener(this);
+
+		btn_mapas = (Button)this.findViewById(R.id.map);
+		btn_mapas.setOnClickListener(this);
 	}
 	@Override
 	public void onClick(View v) {
@@ -58,7 +63,7 @@ public class MainActivity extends Activity implements OnClickListener {
 						break;
 				}
 				new LoadCustomDataTask().execute();
-			} else {
+			}else {
 				VisionCore vs = new VisionCore(this.getApplicationContext(), true);
 				VisionCore.core.ar.setPrefixForImages("");
 				VisionCore.core.model.setVisionGeoPoiClickListener(new VisionGeoPoiClickListener(){
@@ -69,19 +74,11 @@ public class MainActivity extends Activity implements OnClickListener {
 				});
 				VisionCore.core.configuration.setRadarPosition(VisionConfiguration.RADAR_POSITION_LEFT);
 				VisionCore.core.configuration.showAppLogo(true);
-				switch(lan){
-					case EN:
-						VisionCore.core.configuration.setLanguage("_en");
-						break;
-					case ES:
-						VisionCore.core.configuration.setLanguage("_es");
-						break;
-					case PT:
-						VisionCore.core.configuration.setLanguage("_pt");
-						break;
-				}
 				new LoadDataTask().execute();
 			}
+		}else if (v== btn_mapas){
+			Intent i = new Intent(this, Activity_Maps.class );
+			startActivity(i);
 		}
 	}
 

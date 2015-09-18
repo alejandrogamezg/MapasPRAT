@@ -76,9 +76,9 @@ public class MyModelManager extends VisionModelManager {
 			double longitudeChange = Math.random() * 0.005;
 			CustomGeoPoi poi = new CustomGeoPoi();
 			poi.setId(String.format("000%d", poiID));
-			poi.setTitle(String.format("Point of Interest %d", poiID));
-			poi.setSubtitle(String.format("Subtitle for POI %d", poiID));
-			poi.setText(String.format("Text for POI %d", i));
+			poi.setTitle(String.format("Punto de Interes %d", poiID));
+			poi.setSubtitle(String.format("Subtitulo para el  POI %d", poiID));
+			poi.setText(String.format("Texto para el  POI %d", i));
 			poi.setLatitude(currentLocation.getLatitude() + latitudeChange);
 			poi.setLongitude(currentLocation.getLongitude() + longitudeChange);
 			poi.setWeb(String.format("URL for POI %d", poiID));
@@ -92,9 +92,9 @@ public class MyModelManager extends VisionModelManager {
 			double longitudeChange = Math.random() * 0.005;
 			CustomGeoPoi poi = new CustomGeoPoi();
 			poi.setId(String.format("000%d", poiID));
-			poi.setTitle(String.format("Point of Interest %d", poiID));
-			poi.setSubtitle(String.format("Subtitle for POI %d", poiID));
-			poi.setText(String.format("Text for POI %d", i));
+			poi.setTitle(String.format("Punto de interes  %d", poiID));
+			poi.setSubtitle(String.format("Subtitulo para el POI %d", poiID));
+			poi.setText(String.format("Texto para el POI %d", i));
 			poi.setLatitude(currentLocation.getLatitude() + latitudeChange);
 			poi.setLongitude(currentLocation.getLongitude() - longitudeChange);
 			poi.setWeb(String.format("URL for POI %d", poiID));
@@ -108,9 +108,9 @@ public class MyModelManager extends VisionModelManager {
 			double longitudeChange = Math.random() * 0.005;
 			CustomGeoPoi poi = new CustomGeoPoi();
 			poi.setId(String.format("000%d", poiID));
-			poi.setTitle(String.format("Point of Interest %d", poiID));
-			poi.setSubtitle(String.format("Subtitle for POI %d", poiID));
-			poi.setText(String.format("Text for POI %d", i));
+			poi.setTitle(String.format("Punto de Interes%d", poiID));
+			poi.setSubtitle(String.format("Subtitulo para el POI %d", poiID));
+			poi.setText(String.format("Texto para el POI %d", i));
 			poi.setLatitude(currentLocation.getLatitude() - latitudeChange);
 			poi.setLongitude(currentLocation.getLongitude() + longitudeChange);
 			poi.setWeb(String.format("URL for POI %d", poiID));
