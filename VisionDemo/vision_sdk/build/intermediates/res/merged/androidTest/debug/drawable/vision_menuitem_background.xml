@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true" android:state_pressed="true"
+    	android:drawable="@drawable/vision_menuitem_background_pressed" />
+    <item android:state_focused="false" android:state_pressed="true"
+    	android:drawable="@drawable/vision_menuitem_background_pressed" />
+    <item android:state_focused="true"
+        android:drawable="@drawable/vision_menuitem_background_focus" />
+</selector>
+<!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/MapasPRAT/VisionDemo/vision_sdk/src/main/res/drawable/vision_menuitem_background.xml --><!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/MapasPRAT/VisionDemo/vision_sdk/build/intermediates/bundles/debug/res/drawable/vision_menuitem_background.xml -->

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-793c4960f28a816968a04f0bcc4469a93d93a1e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-79f21f0f79e5a4ffa23b3666797801c91b178a60.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-7032955c230b623b432c8115157332436c87d987.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\VisionDemo\vision_sdk\unspecified\jars\libs\20130405-GM-LIB-Vision_SDK_ofuscated-v1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e99f49f7a913f800a5f215acad24a60dcf4dc1c6">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\20130405-GM-LIB-Vision_SDK_ofuscated-v1.0-dc086c42ac9388f9d4ec39112fc3237eb0f1552a.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-2c45067c172124a00b8ff27a886036d436741182.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-2bb740da437c0acd026d0c0b477df51e27db4e79.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-226dd831ec9f85720c7b244238c28c7c0a5b2152.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-bdba4b53fb4af6f47d7536058ba58f1469972b05.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-71696c9e494679a8d86334e115c5a5f39eed1586.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-c54f9f9fe60e9103111a4bbe41a6a9e859bd5b30.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-877c27e54e0875f8bac564fb1fff3230fe1f68f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-e93b7b465a76d5f6b75d4d71acae15fe83023d75.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-caae616f75fe9cd65ee40e0dbc5414c135663c84.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\VisionDemo\vision_sdk\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f3fc79c03ace99ac2e35381d5d6a6d7154550338">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-27cd05b9f44f0b5274437b1b547c0729b554843f.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-c0aeb1efba3228bf47478be4e2f7b04cd94f2005.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-80260023758096f0565155b508a954e9f3d349fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-ac4ac4a9b11eb2641b2a1a2e701b4d8608ac3a94.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-441ffcd353656fd38d2c48d0f593d2a19a79a480.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-7500cfd78e61f7f2cf5455be36a347c49113d032.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-d0a6b0f7d03d5067fdf9d2fe23cb5ac3e124f7c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-405c954c21a640165318ed7045f7d5d4c4fb13b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-47af21f8da45cee8740d00c5732c073b08562562.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\classes-df7c7da565aad92c24e02646fa6c5770b9f8be41.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-278b4e6d60a9b0991327349af28233dd01e7192a.jar" />
+    </item>
+
+</items>

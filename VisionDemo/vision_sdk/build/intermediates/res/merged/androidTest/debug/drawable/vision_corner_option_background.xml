@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/vision_corner_option_selected"
+          android:state_pressed="true" />
+</selector>
+<!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/MapasPRAT/VisionDemo/vision_sdk/src/main/res/drawable/vision_corner_option_background.xml --><!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/MapasPRAT/VisionDemo/vision_sdk/build/intermediates/bundles/debug/res/drawable/vision_corner_option_background.xml -->

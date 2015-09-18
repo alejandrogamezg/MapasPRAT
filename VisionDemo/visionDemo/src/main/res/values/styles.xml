@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<style name="VisionTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/vision_dialog_background</item>
+	</style>
+</resources>
+ 

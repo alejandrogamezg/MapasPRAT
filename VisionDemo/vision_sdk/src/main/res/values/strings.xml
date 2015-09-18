@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="map_key"></string>      <!-- PUT HERE YOUR GOOGLE MAPS KEY -->
+    <string name="vision_key"></string>   <!-- PUT HERE THE VISION SDK KEY ASSIGNED TO YOUR APP -->
+     
+	<!-- Español -->
+	<string name="vision_view1_es">Carteles</string>
+	<string name="vision_view2_es">Lista</string>
+	<string name="vision_view3_es">Flechas</string>  
+	<string name="vision_view4_es">Radar</string> 
+	<string name="vision_view5_es">Mapa</string>
+	
+	<string name="vision_loading_es">Cargando...</string>
+	<string name="vision_pois_found_es">puntos de interés encontrados</string>
+	<string name="vision_gps_error_es">Precisión \u00B1</string>
+	<string name="vision_teleported_to_es">Localizado en</string>
+    <string name="vision_no_teleported_to_es">No hay localización de teletransporte</string>
+	<string name="vision_teleport_on_es">Modo teletransporte ON</string>
+    <string name="vision_teleport_off_es">Modo teletransporte OFF</string>
+	
+	<string name="vision_teleport_help_title_es">¿Te quieres teletransportar?</string>
+	<string name="vision_teleport_help_text_es">Para teletransportarte solo tienes que desplazar el icono por el mapa (pulsa el icono hasta que vibre y podrás desplazarlo) o pulsar el botón de teletransporte para buscar la calle que quieras. También puedes guardar tu localización y acceder a ella cuando quieras.</string>
+	<string name="vision_teleport_help_check_es">No volver a mostrar</string>
+	<string name="vision_close_es">Cerrar</string>
+	<string name="vision_location_name_es">Introduce el nombre de la nueva localización:</string>
+	<string name="vision_save_es">Guardar</string>
+	<string name="vision_put_name_es">Debes introducir un nombre para la localización</string> 
+	<string name="vision_my_locations_es">Mis localizaciones</string>
+	<string name="vision_no_items_es">No hay elementos para mostrar</string> 
+	<string name="vision_put_address_es">No ha introducido una dirección para teletransportarse</string>
+    <string name="vision_address_not_found_es">Dirección no encontrada</string>
+    <string name="vision_location_added_es">ha sido añadido a tus localizaciones favoritas</string>
+    <string name="vision_all_es">Todas</string>
+ 
+    
+	<!--  English  -->
+	<string name="vision_view1_en">Panels</string>
+	<string name="vision_view2_en">List</string>
+	<string name="vision_view3_en">Arrows</string>
+	<string name="vision_view4_en">Radar</string>
+	<string name="vision_view5_en">Map</string>
+	
+	<string name="vision_loading_en">Loading...</string>
+	<string name="vision_pois_found_en">points of interest found</string>
+	<string name="vision_gps_error_en">Precision \u00B1</string> 
+    <string name="vision_teleported_to_en">Located in </string>
+    <string name="vision_no_teleported_to_en">No teleportation location available</string>
+    <string name="vision_teleport_on_en">teleport mode ON</string>
+    <string name="vision_teleport_off_en">teleport mode OFF</string>
+	
+    <string name="vision_teleport_help_title_en">Do you want to be teleported?</string>
+	<string name="vision_teleport_help_text_en">To be teleported you just have to move the icon around the map (click the icon until it vibrates and you can move it) or click on the teleport button to find the street you want. You can also save your location and access it whenever you want.</string>
+	<string name="vision_teleport_help_check_en">Don\'t show again</string>
+	<string name="vision_close_en">Close</string>
+	<string name="vision_location_name_en">Put the name of the new location:</string>
+	<string name="vision_save_en">Save</string>
+	<string name="vision_put_name_en">You should set a name for the location</string> 
+	<string name="vision_my_locations_en">My locations</string>
+	<string name="vision_no_items_en">There are no items to show</string> 
+	<string name="vision_put_address_en">You don\'t have put the address where to be teleported</string>
+    <string name="vision_address_not_found_en">Address not found</string>
+    <string name="vision_location_added_en">has been added to your favorites locations</string>
+    <string name="vision_all_en">All</string>
+
+	<!-- Català -->
+	<string name="vision_view1_ca">Cartells</string>
+	<string name="vision_view2_ca">Llista</string>
+	<string name="vision_view3_ca">Fletxes</string>
+	<string name="vision_view4_ca">Radar</string>
+	<string name="vision_view5_ca">Mapa</string>
+	
+	<string name="vision_loading_ca">Carregant...</string>
+	<string name="vision_pois_found_ca">punts d\'interès trobats</string>
+	<string name="vision_gps_error_ca">Precisió +-</string>
+    <string name="vision_teleported_to_ca">Localitzat en</string>
+    <string name="vision_no_teleported_to_ca">No hi ha localització de teletransport</string>
+	<string name="vision_teleport_on_ca">Mode teletransport ON</string>
+    <string name="vision_teleport_off_ca">Mode teletransport OFF</string>
+	
+	<string name="vision_teleport_help_title_ca">Et vols teletransportar?</string>
+	<string name="vision_teleport_help_text_ca">Per teletransportarte només has de desplaçar la icona pel mapa (prem la icona fins que vibri i podràs desplaçar) o prémer el botó de teletransport per buscar el carrer que vulguis. També pots guardar la teva localització i accedir-hi quan vulguis.</string>
+	<string name="vision_teleport_help_check_ca">No tornis a mostrar</string>
+	<string name="vision_close_ca">Tancar</string>
+	<string name="vision_location_name_ca">Introdueix el nom de la nova localització:</string>
+	<string name="vision_save_ca">Desa</string>
+	<string name="vision_put_name_ca">Has d\'introduir un nom per a la localització</string> 
+	<string name="vision_my_locations_ca">Els meus localitzacions</string>
+	<string name="vision_no_items_ca">No hi ha elements per mostrar</string> 
+	<string name="vision_put_address_ca">No ha introduït una direcció per teletransportar</string>
+    <string name="vision_address_not_found_ca">Direcció no trobada</string>
+    <string name="vision_location_added_ca">ha estat afegit als teus localitzacions preferides</string>
+    <string name="vision_all_ca">Totes</string>
+    
+	<!--  Français -->
+	<string name="vision_view1_fr">Panneau</string> 
+	<string name="vision_view2_fr">Liste</string>
+	<string name="vision_view3_fr">Flèches</string>
+	<string name="vision_view4_fr">Radar</string>
+	<string name="vision_view5_fr">Plan</string>
+	
+	<string name="vision_loading_fr">Chargement en cours…</string>
+	<string name="vision_pois_found_fr">points d\'intérêt trouvés</string>
+	<string name="vision_gps_error_fr">Précision \u00B1</string>
+	<string name="vision_teleported_to_fr">Situé dans</string>
+    <string name="vision_no_teleported_to_fr">Aucun endroit de téléportation</string>
+	<string name="vision_teleport_on_fr">Modo teletransporte ON</string>
+    <string name="vision_teleport_off_fr">Modo teletransporte OFF</string>
+	 
+	<string name="vision_teleport_help_title_fr">Voulez-vous téléporter?</string>
+	<string name="vision_teleport_help_text_fr">Pour se téléporter vous avez juste à déplacer l\'icône sur la carte (cliquez sur l\'icône à vibrer et vous pouvez le déplacer) ou se téléporter sur le bouton pour trouver la rue que vous voulez. Vous pouvez également enregistrer votre position et d\'y accéder quand vous le souhaitez.</string>
+	<string name="vision_teleport_help_check_fr">Ne pas montrer</string>
+	<string name="vision_close_fr">Fermer</string>
+	<string name="vision_location_name_fr">Entrez le nom du nouvel emplacement:</string>
+	<string name="vision_save_fr">Sauver</string>
+	<string name="vision_put_name_fr">Vous devez entrer un nom pour l\'emplacement</string> 
+	<string name="vision_my_locations_fr">Mes endroits</string>
+	<string name="vision_no_items_fr">Aucun élément à afficher</string> 
+	<string name="vision_put_address_fr">Vous n\'avez pas entré une adresse pour se téléporter</string>
+    <string name="vision_address_not_found_fr">Adresse introuvable</string>
+    <string name="vision_location_added_fr">a été ajoutée à vos sites préférés</string>
+    <string name="vision_all_fr">Tous</string>
+
+	<!--  Portugués -->
+	<string name="vision_view1_pt">Cartazes</string>
+	<string name="vision_view2_pt">Lista</string>
+	<string name="vision_view3_pt">Setas</string>
+	<string name="vision_view4_pt">Radar</string>
+	<string name="vision_view5_pt">Mapa</string>
+	
+	<string name="vision_loading_pt">Carregando...</string>
+	<string name="vision_pois_found_pt">pontos de interesse encontrados</string>
+	<string name="vision_gps_error_pt">Precisão \u00B1</string>
+	<string name="vision_teleported_to_pt">localizado em</string>
+    <string name="vision_no_teleported_to_pt">No local teletransporte</string>
+	<string name="vision_teleport_on_pt">Teleport modo ON</string>
+    <string name="vision_teleport_off_pt">Teleport modo OFF</string>
+	
+	<string name="vision_teleport_help_title_pt">Você quer se teletransportar?</string>
+	<string name="vision_teleport_help_text_pt">Para teleportar você só tem que mover o ícone ao redor do mapa (clique no ícone para vibrar e você pode movê-lo) ou teletransportar botão para encontrar a rua desejada. Você também pode salvar a sua localização e acessá-lo sempre que quiser.</string>
+	<string name="vision_teleport_help_check_pt">Não mostrar</string>
+	<string name="vision_close_pt">Fechar</string>
+	<string name="vision_location_name_pt">Digite o nome do novo local:</string>
+	<string name="vision_save_pt">Salvar</string>
+	<string name="vision_put_name_pt">Você deve digitar um nome para o local</string> 
+	<string name="vision_my_locations_pt">Os meus locais</string>
+	<string name="vision_no_items_pt">Não há itens para mostrar</string> 
+	<string name="vision_put_address_pt">Você não digitou um endereço de se teletransportar</string>
+    <string name="vision_address_not_found_pt">Endereço não encontrado</string>
+    <string name="vision_location_added_pt">foi adicionado aos seus sites favoritos</string>
+    <string name="vision_all_pt">Todos</string>
+	 
+</resources>
