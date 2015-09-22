@@ -26,7 +26,7 @@ public class MainActivity extends Activity implements OnClickListener {
 	private Boolean map = true;
 	private Boolean list = true;
 	private Boolean teleport = true;
-	private Language lan=Language.EN;
+	private Language lan=Language.ES;
 	private Button bt_launch;
 	private Button btn_mapas;
 	@Override
@@ -51,17 +51,6 @@ public class MainActivity extends Activity implements OnClickListener {
 				VisionCore.core.configuration=new VisionConfiguration();
 				VisionCore.core.configuration.setRadarPosition(VisionConfiguration.RADAR_POSITION_RIGHT);
 				VisionCore.core.configuration.showAppLogo(false);
-				switch(lan){
-					case EN:
-						VisionCore.core.configuration.setLanguage("_en");
-						break;
-					case ES:
-						VisionCore.core.configuration.setLanguage("_es");
-						break;
-					case PT:
-						VisionCore.core.configuration.setLanguage("_pt");
-						break;
-				}
 				new LoadCustomDataTask().execute();
 			}else {
 				VisionCore vs = new VisionCore(this.getApplicationContext(), true);

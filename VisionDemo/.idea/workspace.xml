@@ -10,82 +10,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b07dee82-e3e4-4012-94b7-a3c262e410b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/Activity_Maps.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_maps.xml" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\drawable-hdpi\cns2008.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\drawable-hdpi\cs2008.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\drawable-hdpi\en_noselected.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\drawable-hdpi\es_noselected.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\drawable-hdpi\es_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\drawable-hdpi\options_box.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\drawable-hdpi\pt_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\drawable-hdpi\switch_dis.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\drawable-hdpi\switch_off.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\drawable-hdpi\switch_on.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\drawable-hdpi\cns2008.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\drawable-hdpi\cs2008.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\drawable-hdpi\en_noselected.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\drawable-hdpi\es_noselected.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\drawable-hdpi\es_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\drawable-hdpi\options_box.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\drawable-hdpi\pt_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\drawable-hdpi\switch_dis.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\drawable-hdpi\switch_off.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\drawable-hdpi\switch_on.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/CustomGeoPoi.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/CustomGeoPoi.class" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\categories_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\categories_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\file_categories_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\file_categories_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\file_pois_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\file_pois_es.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\file_pois_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\my_custom_categories_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\my_custom_categories_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\my_custom_pois_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\my_custom_pois_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\pois_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\pois_es.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\pois_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\categories_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\categories_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\file_categories_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\file_categories_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\file_pois_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\file_pois_es.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\file_pois_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\my_custom_categories_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\my_custom_categories_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\my_custom_pois_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\my_custom_pois_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\pois_en.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\pois_es.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\pois_pt.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$1.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$2.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadCustomDataTask.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadCustomDataTask.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadDataTask.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadDataTask.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MyARManager.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MyARManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MyModelManager.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MyModelManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/ads/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/ads/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/analytics/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/analytics/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appstate/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appstate/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/cast/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/cast/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/drive/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/drive/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/fitness/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/fitness/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/games/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/games/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/gcm/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/gcm/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/identity/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/identity/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/location/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/location/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/maps/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/maps/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/nearby/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/nearby/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/panorama/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/panorama/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/plus/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/plus/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wallet/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wallet/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wearable/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wearable/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$id.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$integer.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$layout.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$layout.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/ads/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/ads/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/analytics/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/analytics/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appstate/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appstate/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/cast/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/cast/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/drive/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/drive/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/fitness/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/fitness/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/games/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/games/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/gcm/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/gcm/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/identity/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/identity/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/location/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/location/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/maps/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/maps/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/nearby/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/nearby/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/panorama/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/panorama/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/plus/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/plus/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wallet/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wallet/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wearable/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wearable/R$raw.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$style.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$style.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$styleable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$styleable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/dex/debug/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_dialog_background.9.png" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_dialog_background.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_dialog_background.9.png" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_dialog_background.9.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug-unaligned.apk" afterPath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug.apk" afterPath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/visionDemo/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java" afterPath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java" afterPath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MyARManager.java" afterPath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MyARManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MyModelManager.java" afterPath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MyModelManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/vision/demo/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/vision/demo/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/ads/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/ads/R.java" />
@@ -107,10 +98,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wallet/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wallet/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wearable/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wearable/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/visionDemo/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/incremental/mergeResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/incremental/mergeResourcesdebug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/my_custom_pois_es.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/my_custom_pois_es.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_es.xml" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_es.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="VisionDemo.iws" />
@@ -139,66 +130,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="activity_custom_poi_click.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_custom_poi_click.xml">
-          <provider editor-type-id="text-editor">
+      <file leaf-file-name="my_custom_categories_es.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_categories_es.xml">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/visionDemo/src/main/AndroidManifest.xml">
+      <file leaf-file-name="my_custom_pois_es.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_es.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="72" column="11" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
-              <folding>
-                <element signature="e#1740#1758#0" expanded="true" />
-                <element signature="e#1927#1945#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Activity_Maps.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/Activity_Maps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.54642856">
+              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
               <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55737704">
-              <caret line="78" column="14" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="14" />
-              <folding>
-                <element signature="e#4200#4201#0" expanded="true" />
-                <element signature="e#4245#4246#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="52" column="65" selection-start-line="52" selection-start-column="65" selection-end-line="52" selection-end-column="65" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -2426,7 +2383,10 @@
         <option value="$PROJECT_DIR$/visionDemo/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_maps.xml" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/Activity_Maps.java" />
+        <option value="$PROJECT_DIR$/visionDemo/src/main/res/raw/file_pois_es.xml" />
+        <option value="$PROJECT_DIR$/visionDemo/src/main/res/raw/pois_es.xml" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java" />
+        <option value="$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_es.xml" />
       </list>
     </option>
   </component>
@@ -2462,10 +2422,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane" />
-      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2480,52 +2437,6 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vision_sdk" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VisionDemo" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vision_sdk" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VisionDemo" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vision_sdk" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VisionDemo" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="visionDemo" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
@@ -2548,7 +2459,7 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
+              <option name="myItemId" value="raw" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2579,13 +2490,12 @@
               <option name="myItemId" value="visionDemo" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2815,16 +2725,14 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28971255" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40015128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18229954" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2835,6 +2743,8 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28971255" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2882,36 +2792,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_bottomrightcorner_right_enabled.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_bottomrightcorner_right_selected.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_bottomrightcorner_selected.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_center.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_dark_enabled.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_dark_selected.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_layer.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -3128,7 +3008,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3136,49 +3015,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="72" column="11" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
-          <folding>
-            <element signature="e#1740#1758#0" expanded="true" />
-            <element signature="e#1927#1945#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/layout/custom_info_window.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_maps.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_custom_poi_click.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/Activity_Maps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.035196688">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -3187,24 +3063,53 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/categories_es.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_categories_es.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55737704">
-          <caret line="78" column="14" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="14" />
-          <folding>
-            <element signature="e#4200#4201#0" expanded="true" />
-            <element signature="e#4245#4246#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="65" selection-start-line="52" selection-start-column="65" selection-end-line="52" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/file_categories_es.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_es.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54642856">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
