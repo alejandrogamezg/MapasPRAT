@@ -10,35 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b07dee82-e3e4-4012-94b7-a3c262e410b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/categories_en.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/categories_en.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/categories_pt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/file_categories_en.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/file_categories_en.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/file_categories_pt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/file_pois_en.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/file_pois_en.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/file_pois_es.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/file_pois_es.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/file_pois_pt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/my_custom_categories_en.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_categories_en.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/my_custom_categories_pt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/my_custom_pois_en.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_en.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/my_custom_pois_pt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/pois_en.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/pois_en.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/pois_es.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/pois_es.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/pois_pt.xml" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\classes\debug\com\geomobile\vision\demo\MainActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\categories_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\file_categories_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\file_pois_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\my_custom_categories_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\my_custom_pois_pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\pois_pt.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/CustomGeoPoi.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/CustomGeoPoi.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/Language.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/Language.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$1.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadCustomDataTask.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadCustomDataTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadDataTask.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadDataTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$raw.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/R$raw.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/ads/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/ads/R$raw.class" />
@@ -59,27 +37,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$raw.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wallet/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wallet/R$raw.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wearable/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wearable/R$raw.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/ads/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/ads/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/analytics/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/analytics/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appstate/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appstate/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/cast/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/cast/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/drive/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/drive/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/fitness/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/fitness/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/games/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/games/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/gcm/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/gcm/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/identity/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/identity/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/location/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/location/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/maps/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/maps/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/nearby/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/nearby/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/panorama/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/panorama/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/plus/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/plus/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wallet/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wallet/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wearable/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wearable/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$style.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$style.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$styleable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$styleable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R.class" />
@@ -87,16 +45,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/dex/debug/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug-unaligned.apk" afterPath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug.apk" afterPath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java" afterPath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoiParser.java" afterPath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoiParser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/Language.java" afterPath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/Language.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java" afterPath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/vision/demo/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/vision/demo/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/ads/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/ads/R.java" />
@@ -118,17 +71,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wallet/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wallet/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wearable/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wearable/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/file_categories_es.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/file_categories_es.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/raw/file_categories_es.xml" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/file_categories_es.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/incremental/mergeResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/incremental/mergeResourcesdebug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/my_custom_pois_es.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/my_custom_pois_es.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_es.xml" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_es.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="VisionDemo.iws" />
@@ -157,32 +100,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java">
+      <file leaf-file-name="CustomGeoPoi.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="155" column="13" selection-start-line="155" selection-start-column="13" selection-end-line="155" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pois_es.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/pois_es.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="my_custom_pois_es.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_es.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.03469388">
-              <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
-              <folding />
+            <state vertical-scroll-proportion="0.1734694">
+              <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -2412,7 +2337,6 @@
         <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoiParser.java" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/Language.java" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/res/values-es/strings.xml" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/res/raw/categories_en.xml" />
@@ -2420,6 +2344,7 @@
         <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/res/raw/pois_es.xml" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_es.xml" />
+        <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java" />
       </list>
     </option>
   </component>
@@ -2994,8 +2919,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3012,7 +2937,7 @@
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11904762" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2624811" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2624811" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -3068,13 +2993,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java</url>
-          <line>41</line>
-          <properties />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
@@ -3280,16 +3198,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="218" column="8" selection-start-line="218" selection-start-column="8" selection-end-line="218" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoiClickActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3412,7 +3320,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.78163266">
           <caret line="155" column="13" selection-start-line="155" selection-start-column="13" selection-end-line="155" selection-end-column="13" />
           <folding />
         </state>
@@ -3420,7 +3328,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/pois_es.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.6877551">
           <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
           <folding />
         </state>
@@ -3431,6 +3339,16 @@
         <state vertical-scroll-proportion="0.03469388">
           <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1734694">
+          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

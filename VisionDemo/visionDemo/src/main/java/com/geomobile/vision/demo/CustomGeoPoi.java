@@ -43,20 +43,21 @@ public class CustomGeoPoi extends VisionGeoPoi {
 
 		TextView vista = new TextView(ctx);
 		vista.setLayoutParams(new LinearLayout.LayoutParams(180, LayoutParams.WRAP_CONTENT));
-		vista.setTextColor(0x0033FF);
-		vista.setTextSize((int) (20 / density));
+		vista.setTextColor(0xffffffff);
+		vista.setTextSize((int) (15 / density));
 		vista.setText(this.title);
 		vista.setGravity(Gravity.CENTER_HORIZONTAL);
 		vista.setMaxLines(2);
-		vista.layout(80, 10, 300, 200);
+		vista.layout(2, 10, 250, 200);
 		lay.addView(vista);
 
+
+		/*---------------------------------------------------------*/
 		LinearLayout top = new LinearLayout(ctx);
 		top.setOrientation(LinearLayout.HORIZONTAL);
-		top.setLayoutParams(new LinearLayout.LayoutParams(LayoutParams.MATCH_PARENT, 56));
-		top.layout(40, 70, 210, 155);
+		top.setLayoutParams(new LinearLayout.LayoutParams(LayoutParams.WRAP_CONTENT, 56));
+		top.layout(45, 60, 210, 155);
 		lay.addView(top);
-
 
 		vista = new TextView(ctx);
 		vista.setText(VisionUtils.getDistanceToString(this.distance));
@@ -65,41 +66,6 @@ public class CustomGeoPoi extends VisionGeoPoi {
 		vista.setTextSize((int) (20 / density));
 		top.addView(vista);
 
-		vista = new TextView(ctx);
-		vista.setText(this.getPoiRating());
-		vista.layout(95, 0, 110, 40);
-		vista.setTextColor(0xffffffff);
-		vista.setTextSize((int) (20 / density));
-		top.addView(vista);
-
-		LinearLayout icons = new LinearLayout(ctx);
-		icons.setOrientation(LinearLayout.HORIZONTAL);
-		icons.setLayoutParams(new LinearLayout.LayoutParams(110, 40));
-		icons.layout(110, 0, 200, 40);
-		top.addView(icons);
-
-
-		if (categories != null && categories.size() > 0) {
-			ImageView iv;
-			iv = new ImageView(ctx);
-			iv.setLayoutParams(new LayoutParams((int) (20 / density), (int) (20 / density)));
-			iv.setScaleType(ScaleType.CENTER_INSIDE);
-			iv.setImageResource(R.drawable.logo_g);
-			icons.addView(iv);
-			iv.layout(0, 0, 20, 20);
-			int j = 0;
-			for (int i = 0; i < categories.size(); i++) {
-				if (categories.get(i).getIcon() != null && categories.get(i).getIcon().getImage(null, true, false, true) != null) {
-					iv = new ImageView(ctx);
-					iv.setLayoutParams(new LayoutParams((int) (30 / density), (int) (30 / density)));
-					iv.setScaleType(ScaleType.CENTER_INSIDE);
-					iv.setImageDrawable(categories.get(i).getIcon().getImage(null, true, false, true));
-					icons.addView(iv);
-					iv.layout(30 * (j + 1), 0, 35 * (j + 2) - 5, 30);
-					j++;
-				}
-			}
-		}// if
 		return lay;
 	}
 
