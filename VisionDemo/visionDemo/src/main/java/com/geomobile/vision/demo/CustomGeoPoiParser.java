@@ -43,24 +43,24 @@ public class CustomGeoPoiParser extends VisionGeoPoiParser {
 				in = VisionUtils.getInputFromRawFile(from, context);
 			}
 
-			/* Get a SAXParser from the SAXPArserFactory. */
+			//Get a SAXParser from the SAXPArserFactory.
 			SAXParserFactory spf = SAXParserFactory.newInstance();
 			SAXParser sp = spf.newSAXParser();
 
-			/* Get the XMLReader of the SAXParser we created. */
+			//Get the XMLReader of the SAXParser we created.
 			XMLReader xr = sp.getXMLReader();
-			/* Create a new ContentHandler and apply it to the XML-Reader */
+			// Create a new ContentHandler and apply it to the XML-Reader
 			CustomGeoPoiHandler myExampleHandler = new CustomGeoPoiHandler();
 			xr.setContentHandler(myExampleHandler);
 
-			/* Parse the xml-data from our URL. */
+			// Parse the xml-data from our URL.
 			xr.parse(new InputSource(in));
-			/* Parsing has finished. */
+			// Parsing has finished.
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 
-	}// parse
+	}
 
 	private class CustomGeoPoiHandler extends VisionGeoPoiHandler {
 		CustomGeoPoi p;

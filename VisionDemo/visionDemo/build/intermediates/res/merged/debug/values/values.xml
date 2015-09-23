@@ -44,13 +44,10 @@
     <string name="app_name">Vision Demo</string>
     <string name="button1_en">Button 1</string>
     <string name="button1_es">Botón 1</string>
-    <string name="button1_pt">Botão 1</string>
     <string name="button2_en">Button 2</string>
     <string name="button2_es">Botón 2</string>
-    <string name="button2_pt">Botão 2</string>
     <string name="close_en">Exit</string>
     <string name="close_es">Salir</string>
-    <string name="close_pt">Sair</string>
     <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/MapasPRAT/VisionDemo/visionDemo/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values/common_strings.xml -->
     <eat-comment/>
     <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
@@ -97,13 +94,10 @@ available. Please contact the developer for assistance.</string>
     <eat-comment/>
     <string name="option1_en">Option 1</string>
     <string name="option1_es">Opción 1</string>
-    <string name="option1_pt">Opção 1</string>
     <string name="option2_en">Option 2</string>
     <string name="option2_es">Opción 2</string>
-    <string name="option2_pt">Opção 2</string>
     <string name="option3_en">Option 3</string>
     <string name="option3_es">Opción 3</string>
-    <string name="option3_pt">Opção 3</string>
     <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/MapasPRAT/VisionDemo/visionDemo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/res/values/admob_strings.xml -->
     <eat-comment/>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>

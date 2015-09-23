@@ -16,11 +16,5 @@
     <string name="option2_es">Opción 2</string>
     <string name="option3_es">Opción 3</string>
     <string name="close_es">Salir</string>
-    
-    <string name="button1_pt">Botão 1</string>
-    <string name="button2_pt">Botão 2</string>
-    <string name="option1_pt">Opção 1</string>
-    <string name="option2_pt">Opção 2</string>
-    <string name="option3_pt">Opção 3</string>
-    <string name="close_pt">Sair</string>
+
 </resources>

@@ -1,0 +1,49 @@
+<pois>
+	<icons>
+    </icons>
+    <poi poiIDStr="0001"
+        poiLatitudeDouble="18.492573"
+        poiLongitudeDouble="-88.297195"
+        poiTitleStr="Explanada de la Bandera"
+        poiURLStr=""
+        poiSubtitleStr="Boulevard Bahía, Centro, Chetumal, Q.R."
+        poiRating="7">
+        <categories>
+            <category poiCategoryIDStr="0001" />
+        </categories>
+    </poi>
+    <poi poiIDStr="0002"
+        poiLatitudeDouble="18.492915"
+        poiLongitudeDouble="-88.294930"
+        poiTitleStr="Monumento Al Pescador"
+        poiURLStr=""
+        poiSubtitleStr="Boulevard Bahía, Centro, Chetumal, Q.R."
+        poiRating="7">
+        <categories>
+            <category poiCategoryIDStr="0001" />
+        </categories>
+    </poi>
+    <poi poiIDStr="0003"
+        poiLatitudeDouble="18.517455"
+        poiLongitudeDouble="-88.381414"
+        poiTitleStr="Monumento Cuna Al Meztizaje"
+        poiURLStr=""
+        poiSubtitleStr="Villahermosa - Chetumal/México 186."
+        poiRating="7">
+        <categories>
+            <category poiCategoryIDStr="0001" />
+        </categories>
+    </poi>
+    <poi poiIDStr="0004"
+        poiLatitudeDouble="18.493939"
+        poiLongitudeDouble=" -88.302551"
+        poiTitleStr="Monumento A Jannet"
+        poiURLStr=""
+        poiSubtitleStr="Parque del Renacimiento,Boulevard Bahía,Chetumal, Q.R."
+        poiRating="7">
+        <categories>
+            <category poiCategoryIDStr="0001" />
+        </categories>
+    </poi>
+
+</pois>

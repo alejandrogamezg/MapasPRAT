@@ -1,17 +1,18 @@
 <pois>
+    <!-- CONTIENE LOS LUGARES DISPONIBLES PARA MOSTRAR EN EL MAPA-->
 	<icons>
     </icons>
-	<poi poiIDStr="0001"
+    <poi poiIDStr="0001"
         poiLatitudeDouble="18.492573"
         poiLongitudeDouble="-88.297195"
         poiTitleStr="Explanada de la Bandera"
         poiURLStr=""
         poiSubtitleStr="Boulevard Bahía, Centro, Chetumal, Q.R."
         poiRating="7">
-		<categories>
-			<category poiCategoryIDStr="0001" />
+        <categories>
+            <category poiCategoryIDStr="0001" />
         </categories>
-	</poi>
+    </poi>
     <poi poiIDStr="0002"
         poiLatitudeDouble="18.492915"
         poiLongitudeDouble="-88.294930"
@@ -45,4 +46,5 @@
             <category poiCategoryIDStr="0001" />
         </categories>
     </poi>
+
 </pois>

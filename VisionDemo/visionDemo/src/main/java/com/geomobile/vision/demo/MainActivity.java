@@ -51,19 +51,28 @@ public class MainActivity extends Activity implements OnClickListener {
 				VisionCore.core.configuration=new VisionConfiguration();
 				VisionCore.core.configuration.setRadarPosition(VisionConfiguration.RADAR_POSITION_RIGHT);
 				VisionCore.core.configuration.showAppLogo(false);
+				switch(lan){
+					case EN:
+						VisionCore.core.configuration.setLanguage("_en");
+						break;
+					case ES:
+						VisionCore.core.configuration.setLanguage("_es");
+						break;
+				}
 				new LoadCustomDataTask().execute();
 			}else {
 				VisionCore vs = new VisionCore(this.getApplicationContext(), true);
 				VisionCore.core.ar.setPrefixForImages("");
-				VisionCore.core.model.setVisionGeoPoiClickListener(new VisionGeoPoiClickListener(){
-					@Override
-					public void onVisionGeoPoiClick(VisionGeoPoi poi, Activity act) {
-						Toast.makeText(act, "<--- POI: "+poi.getTitle()+" --->", Toast.LENGTH_SHORT).show();
-					}
-				});
 				VisionCore.core.configuration.setRadarPosition(VisionConfiguration.RADAR_POSITION_LEFT);
 				VisionCore.core.configuration.showAppLogo(true);
-				new LoadDataTask().execute();
+				switch(lan) {
+					case EN:
+						VisionCore.core.configuration.setLanguage("_en");
+						break;
+					case ES:
+						VisionCore.core.configuration.setLanguage("_es");
+						break;
+				}
 			}
 		}else if (v== btn_mapas){
 			Intent i = new Intent(this, Activity_Maps.class );

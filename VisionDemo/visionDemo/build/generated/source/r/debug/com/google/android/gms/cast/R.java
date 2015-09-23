@@ -140,7 +140,7 @@ public final class R {
 		public static final int google_play_services_version = 0x7f080000;
 	}
 	public static final class raw {
-		public static final int gtm_analytics = 0x7f050002;
+		public static final int gtm_analytics = 0x7f050009;
 	}
 	public static final class string {
 		public static final int accept = 0x7f060020;
@@ -175,11 +175,11 @@ public final class R {
 		public static final int common_signin_button_text = 0x7f06001c;
 		public static final int common_signin_button_text_long = 0x7f06001d;
 		public static final int commono_google_play_services_api_unavailable_text = 0x7f06001e;
-		public static final int create_calendar_message = 0x7f06002b;
-		public static final int create_calendar_title = 0x7f06002c;
-		public static final int decline = 0x7f06002d;
-		public static final int store_picture_message = 0x7f060038;
-		public static final int store_picture_title = 0x7f060039;
+		public static final int create_calendar_message = 0x7f060028;
+		public static final int create_calendar_title = 0x7f060029;
+		public static final int decline = 0x7f06002a;
+		public static final int store_picture_message = 0x7f060032;
+		public static final int store_picture_title = 0x7f060033;
 		public static final int wallet_buy_button_place_holder = 0x7f06001f;
 	}
 	public static final class style {

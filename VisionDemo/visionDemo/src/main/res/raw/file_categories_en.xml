@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories version="1" >
+
+    <category
+        categoryIDStr="0001"
+        categoryIconStr="icon_cat"
+        categoryLocalBool="true"
+        categoryNoSelectedPoiIconStr="cns2008"
+        categorySelectedPoiIconStr="cs2008"
+        categoryTitleStr="Tourist places"
+        categoryWebserviceBool="false"
+        categoryWebserviceNameStr="" />
+
+</categories>

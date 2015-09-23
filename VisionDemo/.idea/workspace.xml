@@ -10,36 +10,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b07dee82-e3e4-4012-94b7-a3c262e410b3" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\categories_en.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\categories_pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\file_categories_en.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\file_categories_pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\file_pois_en.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\file_pois_es.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\file_pois_pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\my_custom_categories_en.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\my_custom_categories_pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\my_custom_pois_en.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\my_custom_pois_pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\pois_en.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\pois_es.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\raw\pois_pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\categories_en.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\categories_pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\file_categories_en.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\file_categories_pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\file_pois_en.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\file_pois_es.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\file_pois_pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\my_custom_categories_en.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\my_custom_categories_pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\my_custom_pois_en.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\my_custom_pois_pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\pois_en.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\pois_es.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw\pois_pt.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/categories_en.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/categories_en.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/categories_pt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/file_categories_en.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/file_categories_en.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/file_categories_pt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/file_pois_en.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/file_pois_en.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/file_pois_es.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/file_pois_es.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/file_pois_pt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/my_custom_categories_en.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_categories_en.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/my_custom_categories_pt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/my_custom_pois_en.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_en.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/my_custom_pois_pt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/pois_en.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/pois_en.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/pois_es.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/pois_es.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/pois_pt.xml" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\classes\debug\com\geomobile\vision\demo\MainActivity$2.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/CustomGeoPoi.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/CustomGeoPoi.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/Language.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/Language.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$1.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$2.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadCustomDataTask.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadCustomDataTask.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadDataTask.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadDataTask.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity.class" />
@@ -63,7 +59,27 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$raw.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wallet/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wallet/R$raw.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wearable/R$raw.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wearable/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/ads/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/ads/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/analytics/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/analytics/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appstate/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/appstate/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/cast/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/cast/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/drive/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/drive/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/fitness/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/fitness/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/games/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/games/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/gcm/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/gcm/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/identity/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/identity/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/location/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/location/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/maps/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/maps/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/nearby/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/nearby/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/panorama/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/panorama/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/plus/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/plus/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wallet/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wallet/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wearable/R$string.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/wearable/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$style.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$style.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$styleable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$styleable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R.class" />
@@ -76,7 +92,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug-unaligned.apk" afterPath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug.apk" afterPath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java" afterPath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoiParser.java" afterPath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoiParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/Language.java" afterPath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/Language.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java" afterPath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/vision/demo/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/vision/demo/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/ads/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/ads/R.java" />
@@ -98,10 +118,17 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wallet/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wallet/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wearable/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wearable/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/file_categories_es.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/file_categories_es.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/raw/file_categories_es.xml" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/file_categories_es.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/incremental/mergeResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/incremental/mergeResourcesdebug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/my_custom_pois_es.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/raw/my_custom_pois_es.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_es.xml" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_es.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="VisionDemo.iws" />
@@ -130,11 +157,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="my_custom_categories_es.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_categories_es.xml">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="155" column="13" selection-start-line="155" selection-start-column="13" selection-end-line="155" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pois_es.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/pois_es.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -143,18 +180,8 @@
       <file leaf-file-name="my_custom_pois_es.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_es.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54642856">
-              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="52" column="65" selection-start-line="52" selection-start-column="65" selection-end-line="52" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.03469388">
+              <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -2376,19 +2403,35 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MyARManager.java" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MyModelManager.java" />
-        <option value="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_maps.xml" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/Activity_Maps.java" />
+        <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoiClickActivity.java" />
+        <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoiParser.java" />
+        <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/Language.java" />
+        <option value="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java" />
+        <option value="$PROJECT_DIR$/visionDemo/src/main/res/values-es/strings.xml" />
+        <option value="$PROJECT_DIR$/visionDemo/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/visionDemo/src/main/res/raw/categories_en.xml" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/res/raw/file_pois_es.xml" />
-        <option value="$PROJECT_DIR$/visionDemo/src/main/res/raw/pois_es.xml" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java" />
+        <option value="$PROJECT_DIR$/visionDemo/src/main/res/raw/pois_es.xml" />
         <option value="$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_es.xml" />
       </list>
     </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
   </component>
   <component name="NamedScopeManager">
     <order />
@@ -2410,7 +2453,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -2422,7 +2465,195 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="visionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="visionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="visionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="visionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="raw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="visionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="visionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vision_sdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2437,21 +2668,7 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="visionDemo" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VisionDemo" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="visionDemo" />
+              <option name="myItemId" value="vision_sdk" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2459,7 +2676,7 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="raw" />
+              <option name="myItemId" value="values" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2469,16 +2686,70 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="visionDemo" />
+              <option name="myItemId" value="vision_sdk" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vision_sdk" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thumbs.db" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vision_sdk" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anim" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisionDemo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vision_sdk" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2493,9 +2764,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2514,6 +2782,17 @@
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="M4 SS1060" />
     <property name="FullScreen" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\values" />
+      <recent name="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\raw" />
+      <recent name="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\values-es" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.visionDemo">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2715,8 +2994,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2724,15 +3003,16 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28971255" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11904762" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18229954" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2624811" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2743,36 +3023,35 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28971255" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.09304085" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28971255" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32993197" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40015128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18154311" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -2788,233 +3067,196 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java</url>
+          <line>41</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_layer.png">
+    <entry file="file://$PROJECT_DIR$/vision_sdk/src/main/res/drawable-hdpi/vision_teleport_popup_search_cancel.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_teleport_enabled.png">
+    <entry file="file://$PROJECT_DIR$/vision_sdk/src/main/res/drawable-hdpi/vision_teleport_popup_search.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_teleport_selected.png">
+    <entry file="file://$PROJECT_DIR$/vision_sdk/src/main/res/drawable-hdpi/vision_teleport_popup_background.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_topleftcorner_enabled.png">
+    <entry file="file://$PROJECT_DIR$/vision_sdk/src/main/res/drawable-hdpi/vision_selected_icon.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_topleftcorner_left_enabled.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="jar://$PROJECT_DIR$/vision_sdk/libs/20130405-GM-LIB-Vision_SDK_ofuscated-v1.0.jar!/com/geomobile/arcore/VisionConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="35.25926">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_topleftcorner_left_selected.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="jar://$PROJECT_DIR$/vision_sdk/libs/20130405-GM-LIB-Vision_SDK_ofuscated-v1.0.jar!/com/geomobile/arcore/VisionCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="19.74074">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_topleftcorner_right_enabled.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="jar://$PROJECT_DIR$/vision_sdk/libs/20130405-GM-LIB-Vision_SDK_ofuscated-v1.0.jar!/com/geomobile/arcore/ar/MapViewOwn.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.3703704">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_topleftcorner_right_selected.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="jar://$PROJECT_DIR$/vision_sdk/libs/20130405-GM-LIB-Vision_SDK_ofuscated-v1.0.jar!/com/geomobile/arcore/ar/VisionARActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="28.333334">
+          <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_topleftcorner_selected.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="jar://$PROJECT_DIR$/vision_sdk/libs/20130405-GM-LIB-Vision_SDK_ofuscated-v1.0.jar!/com/geomobile/arcore/ar/VisionCameraView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="22.25926">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_toprightcorner_enabled.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_toprightcorner_left_enabled.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_toprightcorner_left_selected.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_toprightcorner_right_enabled.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_toprightcorner_right_selected.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_toprightcorner_selected.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_dialog_background.9.png">
-      <provider editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_dropdown_bottomleftcorner.9.png">
-      <provider selected="true" editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-      <provider editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_dropdown_bottomleftcorner_left.9.png">
-      <provider editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_dropdown_bottomleftcorner_right.9.png">
-      <provider editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_dropdown_bottomrightcorner.9.png">
-      <provider editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_dropdown_bottomrightcorner_left.9.png">
-      <provider editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_dropdown_bottomrightcorner_right.9.png">
-      <provider editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_icon_map_marker.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_infopanel_background.9.png">
-      <provider editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_listitem_background.9.png">
-      <provider editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_panel_background.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_radar.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_title_background.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/icon_cat.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/icon_mapa.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/icon_mapa_no_sel.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/logo_g.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/logo_vision.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/vision_logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/pt_noselected.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/en_selected.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vision_sdk/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/vision_sdk/src/main/res/anim/vision_map_dialog_pop_in.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vision_sdk/src/main/res/anim/vision_map_dialog_pop_out.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vision_sdk/src/main/res/drawable-hdpi/vision_arrow_background.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vision_sdk/src/main/res/drawable-hdpi/vision_button_add_location_enabled.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vision_sdk/src/main/res/drawable-hdpi/vision_button_add_location_selected.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vision_sdk/src/main/res/drawable-hdpi/vision_button_bottomrightcorner_left_enabled.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vision_sdk/src/main/res/drawable-hdpi/vision_button_bottomrightcorner_right_enabled.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vision_sdk/src/main/res/drawable-mdpi/vision_teleport_help_background.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vision_sdk/src/main/res/drawable-land-mdpi/vision_teleport_help_background.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_custom_poi_click.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_maps.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/visionDemo.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="72" column="11" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="8" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -3030,50 +3272,129 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_maps.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_custom_poi_click.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/Activity_Maps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.035196688">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.3251366">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="218" column="8" selection-start-line="218" selection-start-column="8" selection-end-line="218" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoiClickActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
       </provider>
-      <provider editor-type-id="text-editor">
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MyARManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MyModelManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="105" column="37" selection-start-line="105" selection-start-column="37" selection-end-line="105" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MyModelManagerPreload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoiParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.0846996">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/DataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09289618">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5185184">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/categories_en.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/Language.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/categories_es.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/file_categories_en.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/file_categories_es.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/file_pois_en.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/file_pois_es.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -3092,23 +3413,23 @@
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="65" selection-start-line="52" selection-start-column="65" selection-end-line="52" selection-end-column="65" />
+          <caret line="155" column="13" selection-start-line="155" selection-start-column="13" selection-end-line="155" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/file_categories_es.xml">
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/pois_es.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/raw/my_custom_pois_es.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54642856">
-          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.03469388">
+          <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
           <folding />
         </state>
       </provider>
