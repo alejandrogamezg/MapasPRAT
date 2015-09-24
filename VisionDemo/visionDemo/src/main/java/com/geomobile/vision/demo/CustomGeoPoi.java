@@ -178,7 +178,7 @@ public class CustomGeoPoi extends VisionGeoPoi {
 		TextView title = new TextView(ctx);
 		params2 = new LinearLayout.LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT);
 		title.setLayoutParams(params2);
-		title.setTextColor(0xff000000);
+		title.setTextColor(0xffffffff);
 		title.setTextSize(15);
 		title.setTypeface(Typeface.DEFAULT_BOLD);
 		title.setSingleLine(true);
@@ -205,8 +205,9 @@ public class CustomGeoPoi extends VisionGeoPoi {
 		LinearLayout pop =(LinearLayout) View.inflate(ctx,R.layout.custom_info_window, null);
 		TextView title=(TextView)pop.findViewById(R.id.title);
 		title.setText(this.getTitle());
-		title.setTextColor(0xffffffff);
+		title.setTextColor(0xff000000);
 		TextView subtitle=(TextView)pop.findViewById(R.id.subtitle);
+		subtitle.setTextColor(0xff000000);
 		subtitle.setText(this.getSubtitle());
 		ImageView cat=(ImageView)pop.findViewById(R.id.cat);
 		Vector<VisionCategory> cats = this.getCategories();
@@ -284,7 +285,7 @@ public class CustomGeoPoi extends VisionGeoPoi {
 		TextView text = new TextView(ctx);
 		params = new LinearLayout.LayoutParams(LayoutParams.FILL_PARENT, LayoutParams.WRAP_CONTENT);
 		text.setLayoutParams(params);
-		text.setTextColor(0xff333333);
+		text.setTextColor(0xff000000);
 		text.setTextSize(12);
 		text.setSingleLine(true);
 		text.setEllipsize(TruncateAt.END);
@@ -293,7 +294,7 @@ public class CustomGeoPoi extends VisionGeoPoi {
 		TextView distance = new TextView(ctx);
 		params = new LinearLayout.LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT);
 		distance.setLayoutParams(params);
-		distance.setTextColor(0xff333333);
+		distance.setTextColor(0xff000000);
 		lay3.addView(distance);
 		
 		ImageView catImage = new ImageView(ctx);

@@ -10,18 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b07dee82-e3e4-4012-94b7-a3c262e410b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/logo_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/logo_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vision_sdk/build/intermediates/manifest/tmp/manifestMerger5874864582369176634.xml" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\classes\debug\com\geomobile\vision\demo\Activity_Maps.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\layout\activity_maps.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\java\com\geomobile\vision\demo\Activity_Maps.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\layout\activity_maps.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/mm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/mm.png" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\drawable-hdpi\cns2003.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\drawable-hdpi\cs2003.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\drawable-hdpi\en_selected.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\build\intermediates\res\merged\debug\drawable-hdpi\pt_noselected.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\drawable-hdpi\cns2003.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\drawable-hdpi\cs2003.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\drawable-hdpi\en_selected.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\MapasPRAT\VisionDemo\visionDemo\src\main\res\drawable-hdpi\pt_noselected.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/CustomGeoPoi.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/CustomGeoPoi.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$1.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadCustomDataTask.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadCustomDataTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadDataTask.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity$LoadDataTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/MainActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/R$drawable.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/google/android/gms/R$drawable.class" />
@@ -53,31 +52,30 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R.class" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/classes/debug/com/geomobile/vision/demo/R.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/dex/debug/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_icon_map_marker.png" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_icon_map_marker.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_icon_map_marker.png" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_icon_map_marker.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_radar.png" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_radar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_radar.png" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_radar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_arrow_background.png" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_arrow_background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_arrow_background.png" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_arrow_background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_button_bottomleftcorner_enabled.png" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_button_bottomleftcorner_enabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_bottomleftcorner_enabled.png" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_bottomleftcorner_enabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_button_center.png" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_button_center.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_center.png" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_center.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_button_layer.png" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_button_layer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_layer.png" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_layer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_button_teleport_enabled.png" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_button_teleport_enabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_teleport_enabled.png" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_teleport_enabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_button_teleport_selected.png" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_button_teleport_selected.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_teleport_selected.png" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_teleport_selected.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_button_toprightcorner_enabled.png" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_button_toprightcorner_enabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_toprightcorner_enabled.png" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_toprightcorner_enabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_button_toprightcorner_selected.png" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/demo_vision_button_toprightcorner_selected.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_toprightcorner_selected.png" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_button_toprightcorner_selected.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_dropdown_bottomleftcorner.9.png" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/demo_vision_dropdown_bottomleftcorner.9.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_mapa.png" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_mapa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/icon_mapa.png" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/icon_mapa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_mapa_no_sel.png" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_mapa_no_sel.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/icon_mapa_no_sel.png" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/icon_mapa_no_sel.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/logo_g.png" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/drawable-hdpi/logo_g.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/logo_g.png" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/drawable-hdpi/logo_g.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug-unaligned.apk" afterPath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug.apk" afterPath="$PROJECT_DIR$/visionDemo/build/outputs/apk/visionDemo-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vision_sdk/build/outputs/aar/vision_sdk-debug.aar" afterPath="$PROJECT_DIR$/vision_sdk/build/outputs/aar/vision_sdk-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vision_sdk/build/outputs/aar/vision_sdk-release.aar" afterPath="$PROJECT_DIR$/vision_sdk/build/outputs/aar/vision_sdk-release.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/visionDemo/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java" afterPath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java" afterPath="$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/vision/demo/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/geomobile/vision/demo/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/R.java" />
@@ -100,13 +98,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wallet/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wallet/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wearable/R.java" afterPath="$PROJECT_DIR$/visionDemo/build/generated/source/r/debug/com/google/android/gms/wearable/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/layout/activity_custom_poi_click.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/layout/activity_custom_poi_click.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_custom_poi_click.xml" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_custom_poi_click.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/res/merged/debug/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/visionDemo/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visionDemo/build/intermediates/incremental/mergeResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/visionDemo/build/intermediates/incremental/mergeResourcesdebug/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -140,7 +131,7 @@
         <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="108" column="21" selection-start-line="108" selection-start-column="21" selection-end-line="108" selection-end-column="21" />
+              <caret line="107" column="64" selection-start-line="107" selection-start-column="64" selection-end-line="107" selection-end-column="64" />
               <folding>
                 <element signature="e#2636#2637#0" expanded="true" />
                 <element signature="e#2681#2682#0" expanded="true" />
@@ -154,8 +145,8 @@
       <file leaf-file-name="CustomGeoPoi.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30357143">
-              <caret line="200" column="5" selection-start-line="200" selection-start-column="5" selection-end-line="200" selection-end-column="5" />
+            <state vertical-scroll-proportion="5.8065476">
+              <caret line="207" column="37" selection-start-line="207" selection-start-column="27" selection-end-line="207" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -174,6 +165,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="alejandrogamezg" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
@@ -2999,6 +2995,13 @@
       <option name="number" value="Default" />
       <updated>1442512457115</updated>
     </task>
+    <task id="LOCAL-00001" summary="adaptacion de vistas de mapa">
+      <created>1443130276287</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1443130276287</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -3017,7 +3020,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3809524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3809524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2624811" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -3038,29 +3041,30 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39965987" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28971255" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28971255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.08163265" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3809524" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2624811" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -3074,6 +3078,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adaptacion de vistas de mapa" />
+    <option name="LAST_COMMIT_MESSAGE" value="adaptacion de vistas de mapa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3397,19 +3405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="108" column="21" selection-start-line="108" selection-start-column="21" selection-end-line="108" selection-end-column="21" />
-          <folding>
-            <element signature="e#2636#2637#0" expanded="true" />
-            <element signature="e#2681#2682#0" expanded="true" />
-            <element signature="e#3678#3679#0" expanded="true" />
-            <element signature="e#3723#3724#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/res/layout/activity_custom_poi_click.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
@@ -3478,10 +3473,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="107" column="64" selection-start-line="107" selection-start-column="64" selection-end-line="107" selection-end-column="64" />
+          <folding>
+            <element signature="e#2636#2637#0" expanded="true" />
+            <element signature="e#2681#2682#0" expanded="true" />
+            <element signature="e#3678#3679#0" expanded="true" />
+            <element signature="e#3723#3724#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/visionDemo/src/main/java/com/geomobile/vision/demo/CustomGeoPoi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30357143">
-          <caret line="200" column="5" selection-start-line="200" selection-start-column="5" selection-end-line="200" selection-end-column="5" />
+        <state vertical-scroll-proportion="5.8065476">
+          <caret line="207" column="37" selection-start-line="207" selection-start-column="27" selection-end-line="207" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
