@@ -19,6 +19,7 @@ import com.geomobile.arcore.model.VisionImage;
 
 public class MainActivity extends Activity implements OnClickListener {
 
+	//Variables a utilizar
 	private ProgressBar progress;
 	public Boolean custom = true;
 	private DataSource data = DataSource.DEFAULT_FILES;
@@ -28,24 +29,26 @@ public class MainActivity extends Activity implements OnClickListener {
 	private Boolean teleport = true;
 	private Language lan=Language.ES;
 	private Button bt_launch;
-	private Button btn_mapas;
+
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+
+
 		progress=(ProgressBar)this.findViewById(R.id.progressBar);
 		bt_launch = (Button) this.findViewById(R.id.launch);
 		bt_launch.setOnClickListener(this);
 
-		btn_mapas = (Button)this.findViewById(R.id.map);
-		btn_mapas.setOnClickListener(this);
+
 	}
 	@Override
 	public void onClick(View v) {
 		// TODO Auto-generated method stub
 		if (v == bt_launch) {
 			if (custom) {
-				VisionCore vs = new VisionCore(this.getApplicationContext(), false);
+				new VisionCore(this.getApplicationContext(), false);
 				VisionCore.core.ar=new MyARManager(map,list,teleport);
 				VisionCore.core.ar.setPrefixForImages("demo_");
 				VisionCore.core.configuration=new VisionConfiguration();
@@ -61,7 +64,7 @@ public class MainActivity extends Activity implements OnClickListener {
 				}
 				new LoadCustomDataTask().execute();
 			}else {
-				VisionCore vs = new VisionCore(this.getApplicationContext(), true);
+				new VisionCore(this.getApplicationContext(), true);
 				VisionCore.core.ar.setPrefixForImages("");
 				VisionCore.core.configuration.setRadarPosition(VisionConfiguration.RADAR_POSITION_LEFT);
 				VisionCore.core.configuration.showAppLogo(true);
@@ -74,9 +77,6 @@ public class MainActivity extends Activity implements OnClickListener {
 						break;
 				}
 			}
-		}else if (v== btn_mapas){
-			Intent i = new Intent(this, Activity_Maps.class );
-			startActivity(i);
 		}
 	}
 
@@ -113,16 +113,12 @@ public class MainActivity extends Activity implements OnClickListener {
 					VisionCore.core.loadData(MainActivity.this);
 					break;
 				case GENERATED_DATA:
-					generateData();
 					break;
 			}
 			return null;
 		}
-		private void generateData() {
 
-//nueva modificacion
-		}
-	}// LoadDataTask
+	}
 
 	private class LoadCustomDataTask extends AsyncTask<Void, Void, Void> {
 
@@ -157,7 +153,5 @@ public class MainActivity extends Activity implements OnClickListener {
 
 			return null;
 		}
-
-	}// LoadCustomDataTask
-
+	}
 }

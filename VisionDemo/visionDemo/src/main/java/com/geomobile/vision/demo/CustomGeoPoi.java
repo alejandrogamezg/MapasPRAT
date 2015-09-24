@@ -19,7 +19,6 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-
 import com.geomobile.arcore.VisionCore;
 import com.geomobile.arcore.model.VisionCategory;
 import com.geomobile.arcore.model.VisionGeoPoi;
@@ -33,39 +32,62 @@ public class CustomGeoPoi extends VisionGeoPoi {
 	public LinearLayout getPanelTextureLayout(Context ctx) {
 		// TODO Auto-generated method stub
 		float density = VisionCore.core.configuration.getScreenDensity();
+
 		//VISTA DE CARTELES FLOTANTES
 		LinearLayout lay = new LinearLayout(ctx);
-		lay.setOrientation(LinearLayout.VERTICAL);
+		lay.setOrientation(LinearLayout.HORIZONTAL);
 		lay.setLayoutParams(new LinearLayout.LayoutParams(256, 128));
 		lay.setPadding(10, 10, 10, 10);
 		lay.setBackgroundDrawable(this.getPanelBackground(ctx));
 		lay.layout(0, 0, 256, 128);
 
+
+
+		//Atributos de titulo del cartel flotante
 		TextView vista = new TextView(ctx);
 		vista.setLayoutParams(new LinearLayout.LayoutParams(180, LayoutParams.WRAP_CONTENT));
 		vista.setTextColor(0xffffffff);
 		vista.setTextSize((int) (15 / density));
 		vista.setText(this.title);
-		vista.setGravity(Gravity.CENTER_HORIZONTAL);
-		vista.setMaxLines(2);
+		vista.setGravity(Gravity.CENTER);
+		vista.setMaxLines(5);
 		vista.layout(2, 10, 250, 200);
 		lay.addView(vista);
 
-
-		/*---------------------------------------------------------*/
 		LinearLayout top = new LinearLayout(ctx);
 		top.setOrientation(LinearLayout.HORIZONTAL);
-		top.setLayoutParams(new LinearLayout.LayoutParams(LayoutParams.WRAP_CONTENT, 56));
+		top.setLayoutParams(new LinearLayout.LayoutParams(LayoutParams.MATCH_PARENT, 56));
 		top.layout(45, 60, 210, 155);
 		lay.addView(top);
+
 
 		vista = new TextView(ctx);
 		vista.setText(VisionUtils.getDistanceToString(this.distance));
 		vista.layout(0, 0, 105, 40);
 		vista.setTextColor(0xffffffff);
 		vista.setTextSize((int) (20 / density));
+		vista.setGravity(Gravity.CENTER);
 		top.addView(vista);
 
+
+		if (categories != null && categories.size() > 0) {
+			ImageView iv;
+			iv = new ImageView(ctx);
+			iv.setLayoutParams(new LayoutParams((int) (20 / density), (int) (20 / density)));
+			iv.setScaleType(ScaleType.CENTER_INSIDE);
+			iv.layout(0, 0, 20, 20);
+			int j = 0;
+			for (int i = 0; i < categories.size(); i++) {
+				if (categories.get(i).getIcon() != null && categories.get(i).getIcon().getImage(null, true, false, true) != null) {
+					iv = new ImageView(ctx);
+					iv.setLayoutParams(new LayoutParams((int) (30 / density), (int) (30 / density)));
+					iv.setScaleType(ScaleType.CENTER_INSIDE);
+					iv.setImageDrawable(categories.get(i).getIcon().getImage(null, true, false, true));
+					iv.layout(30 * (j + 1), 0, 35 * (j + 2) - 5, 30);
+					j++;
+				}
+			}
+		}// if
 		return lay;
 	}
 
@@ -86,24 +108,17 @@ public class CustomGeoPoi extends VisionGeoPoi {
 		LinearLayout top = new LinearLayout(ctx);
 		top.setOrientation(LinearLayout.HORIZONTAL);
 		top.setLayoutParams(new LinearLayout.LayoutParams(LayoutParams.WRAP_CONTENT, 40));
-		top.layout(16, 16, 232, 72);
+		top.layout(20, 20, 300, 100);
 		lay.addView(top);
 
 		ImageView iv = new ImageView(ctx);
 		iv.setLayoutParams(new LayoutParams(25, 25));
 		iv.setScaleType(ScaleType.CENTER_CROP);
-		iv.setImageDrawable(ctx.getResources().getDrawable(R.drawable.logo_g));
+		iv.setImageDrawable(ctx.getResources().getDrawable(R.drawable.logo_h));
 		top.addView(iv);
-		iv.layout(10, 0, 35, 35);
+		iv.layout(0, 0, 35, 35);
 
 		TextView vista = new TextView(ctx);
-		vista.setText(VisionUtils.getDistanceToString(this.distance));
-		vista.layout(100, 0, 240, 40);
-		vista.setTextColor(0xffffffff);
-		vista.setTextSize((int) (15 / density));
-		top.addView(vista);
-
-		vista = new TextView(ctx);
 		vista.setLayoutParams(new LinearLayout.LayoutParams(180, LayoutParams.WRAP_CONTENT));
 		vista.setTextColor(0xffffffff);
 		vista.setTextSize((int) (13 / density));
@@ -112,6 +127,13 @@ public class CustomGeoPoi extends VisionGeoPoi {
 		vista.setText(this.title);
 		vista.layout(32, 57, 170, 120);
 		lay.addView(vista);
+
+		vista = new TextView(ctx);
+		vista.setText(VisionUtils.getDistanceToString(this.distance));
+		vista.layout(100, 0, 240, 40);
+		vista.setTextColor(0xffffffff);
+		vista.setTextSize((int) (15 / density));
+		top.addView(vista);
 
 		return lay;
 	}
@@ -122,17 +144,17 @@ public class CustomGeoPoi extends VisionGeoPoi {
 		RelativeLayout ll = new RelativeLayout(ctx);
 		LinearLayout.LayoutParams p = new LinearLayout.LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.WRAP_CONTENT);
 		ll.setLayoutParams(p);
-		ll.setGravity(Gravity.CENTER_VERTICAL);
+		ll.setGravity(Gravity.CENTER);
 		ll.setPadding(VisionUtils.scalePixels(50), 0, VisionUtils.scalePixels(50), VisionUtils.scalePixels(40));
 		ll.setBackgroundDrawable(this.getInfoPanelBackground(ctx));
 
 		TextView rating = new TextView(ctx);
-		RelativeLayout.LayoutParams params = new RelativeLayout.LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT);
-		params.addRule(RelativeLayout.ALIGN_PARENT_LEFT, RelativeLayout.TRUE);
-		params.addRule(RelativeLayout.CENTER_VERTICAL, RelativeLayout.TRUE);
+		RelativeLayout.LayoutParams params = new RelativeLayout.LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.WRAP_CONTENT);
+		params.addRule(RelativeLayout.ALIGN_BOTTOM, RelativeLayout.TRUE);
+		params.addRule(RelativeLayout.ALIGN_TOP, RelativeLayout.TRUE);
 		params.setMargins(VisionUtils.scalePixels(5), 0, 0, 0);
 		rating.setLayoutParams(params);
-		rating.setTextColor(0xff000000);
+		rating.setTextColor(0xffffffff);
 		rating.setTypeface(Typeface.DEFAULT_BOLD);
 		rating.setText(poiRating);
 		ll.addView(rating);
@@ -148,6 +170,7 @@ public class CustomGeoPoi extends VisionGeoPoi {
 		LinearLayout.LayoutParams params2 = new LinearLayout.LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT);
 		distance.setLayoutParams(params2);
 		distance.setTextColor(0xffffffff);
+		distance.setTextSize(15);
 		distance.setTypeface(Typeface.MONOSPACE);
 		distance.setText(VisionUtils.getDistanceToString(this.distance));
 		ll2.addView(distance);
@@ -155,8 +178,8 @@ public class CustomGeoPoi extends VisionGeoPoi {
 		TextView title = new TextView(ctx);
 		params2 = new LinearLayout.LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT);
 		title.setLayoutParams(params2);
-		title.setTextColor(0xffffffff);
-		title.setTextSize(5);
+		title.setTextColor(0xff000000);
+		title.setTextSize(15);
 		title.setTypeface(Typeface.DEFAULT_BOLD);
 		title.setSingleLine(true);
 		title.setEllipsize(TruncateAt.END);
@@ -165,7 +188,7 @@ public class CustomGeoPoi extends VisionGeoPoi {
 
 		ImageView miniImage = new ImageView(ctx);
 		params = new RelativeLayout.LayoutParams(VisionUtils.scalePixels(1), VisionUtils.scalePixels(1));
-		params.addRule(RelativeLayout.ALIGN_PARENT_RIGHT, RelativeLayout.TRUE);
+		params.addRule(RelativeLayout.ALIGN_PARENT_LEFT, RelativeLayout.TRUE);
 		params.addRule(RelativeLayout.CENTER_VERTICAL, RelativeLayout.TRUE);
 		params.setMargins(0, 0, VisionUtils.scalePixels(5), 0);
 		miniImage.setLayoutParams(params);
@@ -182,7 +205,7 @@ public class CustomGeoPoi extends VisionGeoPoi {
 		LinearLayout pop =(LinearLayout) View.inflate(ctx,R.layout.custom_info_window, null);
 		TextView title=(TextView)pop.findViewById(R.id.title);
 		title.setText(this.getTitle());
-		title.setTextColor(0xFF00CC);
+		title.setTextColor(0xffffffff);
 		TextView subtitle=(TextView)pop.findViewById(R.id.subtitle);
 		subtitle.setText(this.getSubtitle());
 		ImageView cat=(ImageView)pop.findViewById(R.id.cat);

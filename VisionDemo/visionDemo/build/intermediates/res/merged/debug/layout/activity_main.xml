@@ -31,17 +31,6 @@
         android:layout_below="@+id/scrollView"
         android:weightSum="1">
 
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:padding="10dp"
-            android:src="@drawable/logo_vision"
-            android:layout_marginLeft="630dp"
-            android:id="@+id/imageView"
-            android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true" />
-
         <LinearLayout
             android:orientation="horizontal"
             android:layout_width="wrap_content"
@@ -56,7 +45,7 @@
 
         <Button
             android:id="@+id/launch"
-            android:layout_width="fill_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/bt_normal"
             android:padding="2dp"
@@ -66,17 +55,8 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
-            android:layout_alignParentBottom="true"
-            android:layout_alignParentEnd="true" />
-
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="mapa"
-            android:id="@+id/map"
-            android:layout_alignParentBottom="true"
-            android:layout_centerHorizontal="true"
-            android:layout_marginBottom="154dp" />
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
 
     </RelativeLayout>
 </RelativeLayout><!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/MapasPRAT/VisionDemo/visionDemo/src/main/res/layout/activity_main.xml -->

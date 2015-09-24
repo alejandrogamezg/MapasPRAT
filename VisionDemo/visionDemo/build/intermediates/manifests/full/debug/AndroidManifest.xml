@@ -56,8 +56,6 @@
         </activity>
         <activity android:name="com.geomobile.vision.demo.CustomGeoPoiClickActivity" >
         </activity>
-        <activity android:name="com.geomobile.vision.demo.Activity_Maps" >
-        </activity>
 
         <!-- Vision SDK -->
         <meta-data
@@ -66,7 +64,8 @@
 
         <activity
             android:name="com.geomobile.arcore.ar.VisionARView"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="portrait" >
+        </activity>
         <activity android:name="com.geomobile.arcore.ar.VisionMapsView2" />
         <activity android:name="com.geomobile.arcore.ar.VisionPoiListView" />
         <activity android:name="com.geomobile.arcore.ar.VisionMyLocations" />
